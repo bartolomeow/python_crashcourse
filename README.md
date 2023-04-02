@@ -1,5 +1,5 @@
 # Crash course de Python
-Este es un crash course (curso intensivo) de Python basado en el excelente video tutorial de MoureDev "Curso de Python - Aprende en 4 horas". El objetivo de este curso es dar una introducción rápida y efectiva a Python, que te permita comenzar a escribir tus propios programas en poco tiempo.
+Este es un crash course (curso intensivo) de Python basado en el excelente video tutorial de MoureDev "Curso de PYTHON desde CERO para PRINCIPIANTES". El objetivo de este curso es dar una introducción rápida y efectiva a Python, que te permita comenzar a escribir tus propios programas en poco tiempo.
 
 ## Contenido del curso
 Este curso está dividido en los siguientes módulos:
