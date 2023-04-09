@@ -32,3 +32,8 @@ print(3 == 4) # False !NO ES TRIPLE IGUAL!
 print(3 != 4) # True
 
 print("aaaa" >= "abaaaa") # False, Ordenación alfabética por ASCII
+
+# Operadores lógicos
+print(3 > 4 and "Hola" > "Python")
+print(3 > 4 or "Hola" > "Python")
+print(3 > 4 and not "Hola" > "Python")
