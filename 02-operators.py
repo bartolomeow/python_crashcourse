@@ -37,3 +37,5 @@ print("aaaa" >= "abaaaa") # False, Ordenación alfabética por ASCII
 print(3 > 4 and "Hola" > "Python")
 print(3 > 4 or "Hola" > "Python")
 print(3 > 4 and not "Hola" > "Python")
+
+# ...smooth operator
