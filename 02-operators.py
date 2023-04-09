@@ -1,4 +1,4 @@
-# Operadores test py
+# Operadores  aritméticos test py
 
 x = 3
 print(x) # 3
@@ -22,3 +22,13 @@ print(2 ** 3) # 8 int
 
 #print("Hola " + 5) error! No se pueden mezclar tipos
 print("Hola " + str(5)) # error! No se pueden mezclar tipos
+print("Hola" * 3) # HolaHolaHola
+
+# Operadores comparativos
+print(3 > 4) # False
+print(3 < 4) # True
+print(4 >= 4) # False
+print(3 == 4) # False !NO ES TRIPLE IGUAL!
+print(3 != 4) # True
+
+print("aaaa" >= "abaaaa") # False, Ordenación alfabética por ASCII
